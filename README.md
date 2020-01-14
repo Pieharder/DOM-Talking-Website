@@ -1,4 +1,4 @@
-# _Talking Webpage__
+# _Talking Webpage_
 
 #### _jQuery practice for Epicodus, 14 January 2020_
 
